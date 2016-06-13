@@ -1,0 +1,5 @@
+name_en: Living
+name_de: Wohngebäude
+description_en: Beautiful buildings for citizens
+description_de: Prachtvolle Bauten für die Inselbewohner
+thumbnail: living

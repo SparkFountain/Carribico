@@ -1,0 +1,5 @@
+name_en: College
+name_de: Universität
+description_en: 
+description_de: Mache aus Tropicos Nachwuchs eine erstklassige Bildungselite!
+price: 9000

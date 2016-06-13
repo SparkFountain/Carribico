@@ -1,0 +1,5 @@
+name_en: Embassy
+name_de: Botschaft
+description_en: An embassy
+description_de: Ermöglicht die Aufnahme und Pflege diplomatischer Beziehungen zu den Supermächten
+price: 5000
