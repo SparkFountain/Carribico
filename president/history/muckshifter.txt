@@ -1,0 +1,2 @@
+name_de: Bauunternehmer
+description_de: Schneller, größer, besser! Sie sind dermaßen damit beschäftigt, mehr zu bauen und die Infrastruktur Ihrer Insel zu erweitern, dass Sie stets den Schaden vergessen, den Ihr ungesundes Streben nach Herrlichkeit der Natur Carribicos zufügt.

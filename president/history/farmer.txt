@@ -1,0 +1,2 @@
+name_de: Farmer
+description_de: Sie nennen Ihre Saat "Meine kleinen Babys" und verbringen Stunden damit, den Schafen aus dem Haiku zu rezitieren. Immerhin ist ein guter Farmer nicht mehr und nicht weniger als ein praktischer Mann mit einem Sinn von Humus.

@@ -1,0 +1,2 @@
+name_de: Armeebasis
+description_de: Bietet gute Unterkünfte und Gesundheitsversorgung für die Soldaten und deren Familien.

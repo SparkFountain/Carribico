@@ -1,0 +1,2 @@
+name_de: Zigarrenfabrik
+description_de: Inseln, die reich an Tabak sind, werden aus diesem Gebäude außerordentlichen Nutzen ziehen.

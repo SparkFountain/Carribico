@@ -1,1 +1,2 @@
 name_de: Wohnungsblock
+description_de: Die meisten Carribicaner werden mit dem Wohnwert der Apartments sehr zufrieden sein.

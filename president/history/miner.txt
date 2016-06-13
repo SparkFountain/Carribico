@@ -1,0 +1,2 @@
+name_de: Bergarbeiter
+description_de: Sie schlafen in einem behelfsmäßigen Loch mit einer Spitzhacke unter Ihrem Kissen, und Sie sind Sonnenlicht gegenüber empfindlicher als ein Vampir. Als ob dies noch nicht genug wäre, bestellten Sie Ihr umgebautes Präsidentenauto, das einem Minenwagen ähnelt.

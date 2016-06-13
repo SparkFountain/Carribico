@@ -1,0 +1,2 @@
+name_de: Bibelgelehrter
+description_de: Nachdem Sie die Bibel in 40 verschiedene Sprachen übersetzt haben - inklusive Urdu und Suaheli - entdeckten Sie zufällig einen geheimen Code in dem Heiligen Buch, der Antworten auf alle möglichen Fragen zu geben schien. Wie gesegnet Sie sind!

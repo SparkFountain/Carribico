@@ -1,0 +1,2 @@
+name_de: Professor
+description_de: Als Sie jung waren, versammelten sich die weiblichen Studierenden in Ihren Vorlesungen, nur um Ihr charmantes Lächeln bewundern zu können. Später verfassten Sie dann einige dumme, unverständliche wissenschaftliche Texte, so qualvoll langweilig und anmaßend, dass die Schlaftablette hinfällig wurde.

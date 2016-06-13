@@ -1,0 +1,2 @@
+name_de: Botanischer Garten
+description_de: Touristen werden viel Geld bezahlen, um ein paar Büsche zu sehen.

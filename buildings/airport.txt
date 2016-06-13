@@ -1,0 +1,4 @@
+name_en: Airport
+name_de: Flughafen
+description_en:
+description_de: Der Flughafen bringt viele neue Touristen auf die Insel.

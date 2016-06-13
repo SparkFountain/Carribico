@@ -1,0 +1,2 @@
+name_de: Eigentumswohnung
+description_de: Die Qualität der Unterkunft, die alle Carribicaner begehren.
